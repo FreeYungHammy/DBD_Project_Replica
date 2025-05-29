@@ -122,7 +122,7 @@ Run one like this:
 
 ```bash
 # from Ecommerce-Backend folder
-node performance_tests/updateOrderStatusStress.js
+node performance_tests/readStressTest.js
 ```
 
 ---
