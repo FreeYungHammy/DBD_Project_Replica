@@ -116,11 +116,7 @@ docker compose up --build
 
 ## Testing & Stress Scripts
 
-All scripts live in `Ecommerce-Backend/performance_tests/`:
-
 - **readStressTest.js**  
-- **createStressTest.js**  
-- **updateOrderStatusStress.js**  
 
 Run one like this:
 
