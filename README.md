@@ -4,7 +4,7 @@ A distributed, MongoDB-backed e-commerce dashboard built with Node.js, Express, 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```plaintext
 DBD_Project_Replica/
@@ -30,7 +30,7 @@ DBD_Project_Replica/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 
@@ -114,7 +114,7 @@ docker compose up --build
 
 ---
 
-## 🧪 Testing & Stress Scripts
+## Testing & Stress Scripts
 
 All scripts live in `Ecommerce-Backend/performance_tests/`:
 
@@ -131,7 +131,7 @@ node performance_tests/updateOrderStatusStress.js
 
 ---
 
-## 🎨 Frontend
+## Frontend
 
 - **Framework:** React + TypeScript + Vite  
 - **Routing:** React Router  
@@ -140,13 +140,13 @@ node performance_tests/updateOrderStatusStress.js
 
 ---
 
-## 🙌 Contributions
+## Contributions
 
-Feel free to open issues or submit PRs—happy to improve this template for the DBD3781 cohort!
+Calvin Nijenhuis, Kaidy Edwards, Marcus Moen, Angelité Arendse
 
 ---
 
-## 📜 License
+## License
 
 MIT License  
-*Built with ❤️ at Belgium Campus*
+
