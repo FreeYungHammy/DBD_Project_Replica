@@ -1,4 +1,4 @@
-// setting up mongoose schema for users 
+// setting up mongoose schema 
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
@@ -17,4 +17,4 @@ const categorySchema = new mongoose.Schema({
 });
 
 // exporting the model from the schema
-module.exports = mongoose.models.Category || mongoose.model('Categories', categorySchema);
+module.exports = mongoose.models.Category || mongoose.model('Category', categorySchema);

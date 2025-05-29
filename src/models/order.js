@@ -1,4 +1,4 @@
-// setting up mongoose schema for users 
+// setting up mongoose schema 
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
 

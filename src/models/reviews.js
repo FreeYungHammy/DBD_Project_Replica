@@ -1,4 +1,4 @@
-// setting up mongoose schema for users 
+// setting up mongoose schema 
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
@@ -31,5 +31,5 @@ const reviewSchema = new mongoose.Schema({
 });
 
 // exporting the model from the schema
-module.exports = mongoose.models.Review || mongoose.model('Reviews', reviewSchema);
+module.exports = mongoose.models.Review || mongoose.model('Review', reviewSchema);
 

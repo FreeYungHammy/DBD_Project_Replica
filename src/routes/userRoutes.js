@@ -1,4 +1,4 @@
-// requireing modules for user routes
+// requiring modules for user routes
 const express = require('express');
 const router = express.Router();
 const User = require('../models/user');
