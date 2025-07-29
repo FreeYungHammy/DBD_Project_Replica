@@ -22,7 +22,7 @@ DBD_Project_Replica/
 
 ---
 
-## 🛠 Prerequisites
+## Prerequisites
 
 - **Node.js** ≥ 18  
 - **Docker & Docker Compose** (optional)  
